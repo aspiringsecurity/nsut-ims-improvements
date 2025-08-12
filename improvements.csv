@@ -1,1 +1,28 @@
+The visual style feels old, reminiscent of early 2000s web design. The buttons are flat and unstyled. The layout lacks sophistication. There is a lot of unused white space, especially below the main image. This makes the page look unbalanced and obscures some content.
+
+The action buttons are grouped on the right side, away from the main content. This arrangement makes it hard for users to navigate the page. The layout does not adapt well to mobile or tablet screens. This makes the site less accessible and harder to use. 
+
+The visual hierarchy is weak. All elements have similar visual weight. This makes it hard for users to identify key actions or important updates. The page only has static buttons. It does not include any interactive or engaging features to encourage user interaction. 
+
+Some Suggestions
+
+⦁	Structured Navigation
+
+Introduce a horizontal top navigation bar that remains visible on all device sizes. Incorporate dropdown menus for grouped sections, such as Students, Faculty, and Alumni, to improve discoverability. Highlight key actions, like Admissions and Notices, in the navigation.
+
+⦁	visual Improvements
+
+Use modern button designs with rounded corners, gradients, subtle shadows, and hover animations to boost interactivity.
+
+⦁	Mobile Responsiveness
+
+Implement a three-bar menu for mobile navigation to keep a clean, minimal layout without losing functionality.
+
+⦁	Expected Outcomes
+
+The redesigned homepage will:
+Convey a modern, professional institutional image. 
+Improve user engagement and navigation efficiency. 
+Ensure accessibility and mobile compatibility. 
+Reflect NSUT's academic prestige through coherent branding and design.
 
